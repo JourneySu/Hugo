@@ -30,8 +30,7 @@ publishDir = "docs"
   [[menu.main]]
     identifier = "post"
     name = "Post"
-	url = "/Hugo/posts/"
-    pageRef = "/posts"
+	pageRef = "/posts"
     weight = 0
 
   [[menu.main]]
