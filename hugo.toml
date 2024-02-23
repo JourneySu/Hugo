@@ -5,6 +5,7 @@ copyright = "Hailey"
 paginate = 10
 languageCode = "en"
 theme = "tailwind"
+publishDir = "docs"
 
 
 
