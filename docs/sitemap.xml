@@ -2,48 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://journeysu.github.io/Hugo/about/</loc>
+    <loc>https://journeysu.github.io/about/</loc>
   </url><url>
-    <loc>https://journeysu.github.io/Hugo/categories/backend/</loc>
+    <loc>https://journeysu.github.io/categories/backend/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://journeysu.github.io/Hugo/categories/</loc>
+    <loc>https://journeysu.github.io/categories/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://journeysu.github.io/Hugo/categories/cdn/</loc>
+    <loc>https://journeysu.github.io/categories/cdn/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://journeysu.github.io/Hugo/</loc>
+    <loc>https://journeysu.github.io/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://journeysu.github.io/Hugo/tags/css/</loc>
+    <loc>https://journeysu.github.io/tags/css/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://journeysu.github.io/Hugo/posts/my-first-post/</loc>
+    <loc>https://journeysu.github.io/posts/my-first-post/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://journeysu.github.io/Hugo/tags/html/</loc>
+    <loc>https://journeysu.github.io/tags/html/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://journeysu.github.io/Hugo/tags/newpost/</loc>
+    <loc>https://journeysu.github.io/tags/newpost/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://journeysu.github.io/Hugo/posts/</loc>
+    <loc>https://journeysu.github.io/posts/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://journeysu.github.io/Hugo/series/</loc>
+    <loc>https://journeysu.github.io/series/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://journeysu.github.io/Hugo/tags/tag1/</loc>
+    <loc>https://journeysu.github.io/tags/tag1/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://journeysu.github.io/Hugo/tags/</loc>
+    <loc>https://journeysu.github.io/tags/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://journeysu.github.io/Hugo/series/themes-guide/</loc>
+    <loc>https://journeysu.github.io/series/themes-guide/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://journeysu.github.io/Hugo/search/</loc>
+    <loc>https://journeysu.github.io/search/</loc>
     <priority>0.1</priority>
   </url>
 </urlset>

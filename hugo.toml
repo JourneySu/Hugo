@@ -1,4 +1,4 @@
-baseURL = "https://journeysu.github.io/Hugo/"
+baseURL = "https://journeysu.github.io/"
 title = "Coding Grassland"
 author = "Hailey"
 copyright = "Hailey"
@@ -12,7 +12,7 @@ publishDir = "docs"
 [params]
   # dir name of your blog content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "Hugo/posts"
+  contentTypeName = "posts"
   
   # Show table of contents at the top of your posts (defaults to false)
   # Alternatively, add this param to post front matter for specific posts
@@ -30,13 +30,14 @@ publishDir = "docs"
   [[menu.main]]
     identifier = "post"
     name = "Post"
-    pageRef = "Hugo/posts"
+	url = "/Hugo/posts/"
+    pageRef = "/posts"
     weight = 0
 
   [[menu.main]]
     identifier = "about"
     name = "About"
-    pageRef = "Hugo/about"
+    pageRef = "/about"
     weight = 10
 
 [taxonomies]
